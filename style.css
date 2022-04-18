@@ -307,7 +307,7 @@ ul li {
 }
 .back {
   position: relative;
-  background-image: url(/images/redyellow.png);
+  background-image: url(images/redyellow.png);
   background-size: cover;
   width: 100%;
   overflow: hidden;
@@ -373,7 +373,7 @@ ul li {
   }
   .sceen{
     position: relative;
-    background-image: url(/images/pinkred.png);
+    background-image: url(images/pinkred.png);
     border-radius: 2.5em;
     background-size: cover;
   }
@@ -406,7 +406,7 @@ ul li {
 }
 .display{
   position: relative;
-  background-image: url(/images/redblue.png);
+  background-image: url(images/redblue.png);
   background-size: cover;
   border-radius: 1.5em;
 }
@@ -438,7 +438,7 @@ ul li {
 }
 .roadmap_background{
   position: relative;
-  background-image: url(/images/redyellow.png);
+  background-image: url(images/redyellow.png);
   background-size: cover;
   border-radius: 1.5em;
 }
